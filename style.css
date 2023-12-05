@@ -146,6 +146,11 @@ main {
     font-size: 5vh;
 }
 
+.play-again {
+    display: flex;
+    gap: 4vh;
+}
+
 .restart-btn {
     display: none;
     font-family: inherit;
